@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies and Shows</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Shows</string>
+</resources>
